@@ -1,6 +1,6 @@
 ---
 title: "hw7"
-author: "Aditya Holla"
+author: "Aditya Holla    ah64493"
 date: "2025-04-04"
 output: html_document
 ---
